@@ -10,6 +10,12 @@ h1{
 h2 {
     font-size: 28px;
 }
+.hobby{
+    list-style: none;
+    padding: 0;
+    display: flex;
+
+}
 span{
     font-size: 20px;
     color: gray;
@@ -38,7 +44,7 @@ header ul{
 header img{
     border-radius: 54px;
 }
-.addres-icon{
+.icon{
     width: 30px;
     height: 30px;
     padding: 8px;
