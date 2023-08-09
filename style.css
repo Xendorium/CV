@@ -1,5 +1,7 @@
+
 body {
     font-family: Arial;
+    background-color: mintcream;
 }
 h1{
     font-size: 36px;
@@ -14,4 +16,8 @@ span{
 img{
     width: 200px;
     height: 250px ;
+}
+
+section, header{
+    padding: 10px 60px 20px 60px;
 }
