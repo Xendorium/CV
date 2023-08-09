@@ -20,7 +20,6 @@ img{
     width: 200px;
     height: 250px ;
 }
-
 section, header{
     padding: 10px 60px 10px 60px;
     width: 960px;
@@ -36,9 +35,13 @@ header{
 header ul{
     list-style: none;
 }
+header img{
+    border-radius: 54px;
+}
 address img{
     width: 30px;
     height: 30px;
     padding: 8px;
     vertical-align: middle;
+    border-radius: 0;
 }
