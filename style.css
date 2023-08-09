@@ -1,7 +1,8 @@
 
 body {
     font-family: Arial;
-    background-color: mintcream;
+    background-color: linen;
+    padding: 40px 0 40px 0;
 }
 h1{
     font-size: 36px;
@@ -20,4 +21,8 @@ img{
 
 section, header{
     padding: 10px 60px 20px 60px;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: mintcream;
 }
