@@ -11,6 +11,7 @@ h1{
 }
 h2 {
     font-size: 28px;
+    margin: 10px 0 10px 0;
 }
 .hobby{
     list-style: none;
@@ -38,6 +39,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding-top: 30px;
 }
 header ul{
     list-style: none;
@@ -61,6 +63,9 @@ h3 .icon{
 }
 p{
     line-height: 1.5;
+}
+li{
+    margin-bottom: 10px;
 }
 .CV{
     border: 2px solid cornflowerblue;
