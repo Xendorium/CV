@@ -70,7 +70,15 @@ p{
     display: inline-block;
     margin-top: 10px;
     border-radius: 26px;
+    transition: background-color 0.5s;
 }
 .Download{
     text-align: center;
+}
+.CV:hover{
+    color: white;
+    background-color: cornflowerblue;
+}
+.CV:active{
+    text-decoration: underline;
 }
