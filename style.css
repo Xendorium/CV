@@ -6,6 +6,8 @@ body {
 }
 h1{
     font-size: 36px;
+    text-align: center;
+    margin-bottom: 10px;
 }
 h2 {
     font-size: 28px;
@@ -59,4 +61,16 @@ h3 .icon{
 }
 p{
     line-height: 1.5;
+}
+.CV{
+    border: 2px solid cornflowerblue;
+    color: black;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+    margin-top: 10px;
+    border-radius: 26px;
+}
+.Download{
+    text-align: center;
 }
