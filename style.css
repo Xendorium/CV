@@ -25,8 +25,8 @@ span{
     font-style: italic;
 }
 img{
-    width: 200px;
-    height: 250px ;
+    width: 260px;
+    height: 300px ;
 }
 section, header{
     padding: 10px 60px 10px 60px;
@@ -45,7 +45,7 @@ header ul{
     list-style: none;
 }
 header img{
-    border-radius: 54px;
+    border-radius: 200px;
 }
 .icon{
     width: 30px;
