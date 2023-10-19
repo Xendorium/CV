@@ -1,6 +1,6 @@
 
 body {
-    font-family: Arial;
+    font-family: Arial, serif;
     background-color: linen;
     padding: 40px 0 40px 0;
 }
@@ -45,6 +45,7 @@ header{
 }
 header ul{
     list-style: none;
+    padding-left: 0px;
 }
 header img{
     border-radius: 50%;
@@ -94,7 +95,7 @@ a{
     padding-top: 10px;
 }
 .imie{
-    font-family: "none";
+    font-family: "none", serif;
     font-size: 40px;
     color: linen;
 }
