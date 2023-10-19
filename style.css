@@ -75,7 +75,6 @@ b{
 }
 a{
     text-decoration: none;
-    color: black;
 }
 .CV{
     border: 2px solid aliceblue;
@@ -103,7 +102,6 @@ a{
     color: linen;
     font-family: "math";
     font-size: 20px;
-
 }
 .CV:hover{
     color: white;
