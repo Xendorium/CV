@@ -71,7 +71,7 @@ li{
     margin-bottom: 10px;
 }
 b{
-    color: black;
+    color: moccasin;
 }
 a{
     text-decoration: none;
@@ -98,6 +98,12 @@ a{
     font-family: "none";
     font-size: 40px;
     color: linen;
+}
+.info{
+    color: linen;
+    font-family: "math";
+    font-size: 20px;
+
 }
 .CV:hover{
     color: white;
