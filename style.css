@@ -13,6 +13,7 @@ h2 {
     font-size: 28px;
     margin: 10px 0 10px 0;
     color: cornflowerblue;
+    border-bottom: 5px solid;
 }
 
 span{
